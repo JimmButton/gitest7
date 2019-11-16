@@ -3,5 +3,6 @@ public class Gittest {
         System.out.println("No to run");
         System.out.println("Albo nie");
         System.out.println("Terefere");
+        System.out.println("Terefere");
     }
 }
